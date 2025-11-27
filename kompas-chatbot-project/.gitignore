@@ -1,0 +1,31 @@
+# Ignore environment and secrets
+.env
+*.key
+*.pem
+
+# Ignore data (too large)
+data/raw/
+data/processed/
+
+# Ignore cache / build / notebook autosave
+__pycache__/
+*.ipynb_checkpoints
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore model or local LLM files
+*.bin
+*.pt
+*.onnx
+*.gguf

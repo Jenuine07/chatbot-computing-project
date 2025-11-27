@@ -1,0 +1,1546 @@
+[
+  {
+    "prompt": "Apakah ada aturan tentang pajak rokok di Jakarta?",
+    "gold_keywords": [
+      "pajak",
+      "rokok",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Bagaimana ketentuan pajak kendaraan bermotor di Bali tahun 2022?",
+    "gold_keywords": [
+      "pajak",
+      "kendaraan bermotor",
+      "bali",
+      "2022"
+    ]
+  },
+  {
+    "prompt": "Apakah ada undang-undang terkait retribusi sampah di Surabaya?",
+    "gold_keywords": [
+      "undang-undang",
+      "retribusi",
+      "sampah",
+      "surabaya"
+    ]
+  },
+  {
+    "prompt": "Bagaimana regulasi pajak restoran di Yogyakarta?",
+    "gold_keywords": [
+      "regulasi",
+      "pajak",
+      "restoran",
+      "yogyakarta"
+    ]
+  },
+  {
+    "prompt": "Adakah peraturan mengenai air tanah di Jawa Barat tahun 2019?",
+    "gold_keywords": [
+      "peraturan",
+      "air tanah",
+      "jawa barat",
+      "2019"
+    ]
+  },
+  {
+    "prompt": "Apakah ada aturan tentang pajak hotel di Bandung dan Bali?",
+    "gold_keywords": [
+      "aturan",
+      "pajak",
+      "hotel",
+      "bandung",
+      "bali"
+    ]
+  },
+  {
+    "prompt": "Bagaimana ketentuan retribusi parkir di Jakarta dan Medan tahun 2020?",
+    "gold_keywords": [
+      "ketentuan",
+      "retribusi",
+      "parkir",
+      "jakarta",
+      "medan",
+      "2020"
+    ]
+  },
+  {
+    "prompt": "Apakah ada regulasi mengenai limbah cair di Surabaya dan Makassar?",
+    "gold_keywords": [
+      "regulasi",
+      "limbah cair",
+      "surabaya",
+      "makassar"
+    ]
+  },
+  {
+    "prompt": "Bagaimana aturan pajak penghasilan di Jawa Tengah dan Jawa Timur tahun 2021?",
+    "gold_keywords": [
+      "aturan",
+      "pajak",
+      "penghasilan",
+      "jawa tengah",
+      "jawa timur",
+      "2021"
+    ]
+  },
+  {
+    "prompt": "Apakah ada perbedaan aturan retribusi pasar antara Semarang dan Yogyakarta?",
+    "gold_keywords": [
+      "perbedaan",
+      "retribusi",
+      "pasar",
+      "semarang",
+      "yogyakarta"
+    ]
+  },
+  {
+    "prompt": "Adakah aturan tentang izin usaha di Indonesia?",
+    "gold_keywords": [
+      "aturan",
+      "izin usaha",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Bagaimana ketentuan mengenai pajak penghasilan orang pribadi?",
+    "gold_keywords": [
+      "ketentuan",
+      "pajak",
+      "penghasilan",
+      "orang pribadi"
+    ]
+  },
+  {
+    "prompt": "Apakah ada regulasi tentang transportasi online di Jakarta?",
+    "gold_keywords": [
+      "regulasi",
+      "transportasi online",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Bagaimana peraturan tentang tenaga kerja asing di Indonesia?",
+    "gold_keywords": [
+      "peraturan",
+      "tenaga kerja asing",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Adakah ketentuan mengenai izin mendirikan bangunan (IMB)?",
+    "gold_keywords": [
+      "ketentuan",
+      "izin mendirikan bangunan",
+      "imb"
+    ]
+  },
+  {
+    "prompt": "Apa isi UU No. 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah?",
+    "gold_keywords": [
+      "isi",
+      "uu no 28 tahun 2009",
+      "pajak daerah",
+      "retribusi daerah"
+    ]
+  },
+  {
+    "prompt": "Apakah ada aturan tentang retribusi jalan tol tahun 2020?",
+    "gold_keywords": [
+      "aturan",
+      "retribusi",
+      "jalan tol",
+      "2020"
+    ]
+  },
+  {
+    "prompt": "Bagaimana regulasi pajak kendaraan listrik tahun 2021?",
+    "gold_keywords": [
+      "regulasi",
+      "pajak",
+      "kendaraan listrik",
+      "2021"
+    ]
+  },
+  {
+    "prompt": "Apakah ada ketentuan tentang pajak karbon tahun 2022?",
+    "gold_keywords": [
+      "ketentuan",
+      "pajak",
+      "karbon",
+      "2022"
+    ]
+  },
+  {
+    "prompt": "Bagaimana aturan tentang dana desa pada tahun 2018?",
+    "gold_keywords": [
+      "aturan",
+      "dana desa",
+      "2018"
+    ]
+  },
+  {
+    "prompt": "Apakah ada regulasi mengenai pajak hotel, restoran, dan hiburan di Bali tahun 2021?",
+    "gold_keywords": [
+      "regulasi",
+      "pajak",
+      "hotel",
+      "restoran",
+      "hiburan",
+      "bali",
+      "2021"
+    ]
+  },
+  {
+    "prompt": "Bagaimana aturan tentang retribusi air, sampah, dan parkir di Surabaya tahun 2019?",
+    "gold_keywords": [
+      "aturan",
+      "retribusi",
+      "air",
+      "sampah",
+      "parkir",
+      "surabaya",
+      "2019"
+    ]
+  },
+  {
+    "prompt": "Apakah ada undang-undang terkait perizinan tambang, hutan, dan laut di Indonesia?",
+    "gold_keywords": [
+      "undang-undang",
+      "perizinan",
+      "tambang",
+      "hutan",
+      "laut",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Bagaimana ketentuan pajak bumi, bangunan, dan kendaraan di Jakarta tahun 2022?",
+    "gold_keywords": [
+      "ketentuan",
+      "pajak",
+      "bumi",
+      "bangunan",
+      "kendaraan",
+      "jakarta",
+      "2022"
+    ]
+  },
+  {
+    "prompt": "Apa regulasi mengenai pajak cukai rokok, minuman, dan bahan bakar di Indonesia?",
+    "gold_keywords": [
+      "regulasi",
+      "pajak",
+      "cukai",
+      "rokok",
+      "minuman",
+      "bahan bakar",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Apakah aturan pajak hotel di Bali sama dengan di Yogyakarta?",
+    "gold_keywords": [
+      "aturan",
+      "pajak",
+      "hotel",
+      "bali",
+      "yogyakarta"
+    ]
+  },
+  {
+    "prompt": "Bagaimana perbedaan retribusi parkir di Jakarta dan Bandung tahun 2021?",
+    "gold_keywords": [
+      "perbedaan",
+      "retribusi",
+      "parkir",
+      "jakarta",
+      "bandung",
+      "2021"
+    ]
+  },
+  {
+    "prompt": "Apakah ada perbedaan ketentuan pajak kendaraan listrik antara Jawa Tengah dan Jawa Timur?",
+    "gold_keywords": [
+      "perbedaan",
+      "ketentuan",
+      "pajak",
+      "kendaraan listrik",
+      "jawa tengah",
+      "jawa timur"
+    ]
+  },
+  {
+    "prompt": "Bagaimana perbedaan aturan IMB di Surabaya dan Medan tahun 2020?",
+    "gold_keywords": [
+      "perbedaan",
+      "aturan",
+      "imb",
+      "surabaya",
+      "medan",
+      "2020"
+    ]
+  },
+  {
+    "prompt": "Apakah ada kesamaan regulasi lingkungan antara Sumatera Utara dan Kalimantan Timur?",
+    "gold_keywords": [
+      "kesamaan",
+      "regulasi",
+      "lingkungan",
+      "sumatera utara",
+      "kalimantan timur"
+    ]
+  },
+  {
+    "prompt": "Pasal berapa dalam UU No. 28 Tahun 2009 yang mengatur retribusi parkir?",
+    "gold_keywords": [
+      "pasal",
+      "uu no 28 tahun 2009",
+      "retribusi",
+      "parkir"
+    ]
+  },
+  {
+    "prompt": "Apa isi Pasal 12 UU tentang Pajak Bumi dan Bangunan tahun 2015?",
+    "gold_keywords": [
+      "isi",
+      "pasal 12",
+      "uu",
+      "pajak bumi dan bangunan",
+      "2015"
+    ]
+  },
+  {
+    "prompt": "Apakah Pasal 33 UUD 1945 berhubungan dengan pengelolaan sumber daya alam?",
+    "gold_keywords": [
+      "pasal 33",
+      "uud 1945",
+      "pengelolaan sumber daya alam"
+    ]
+  },
+  {
+    "prompt": "Bagaimana isi Pasal 23 UU Pajak Penghasilan?",
+    "gold_keywords": [
+      "isi",
+      "pasal 23",
+      "uu",
+      "pajak penghasilan"
+    ]
+  },
+  {
+    "prompt": "Apakah ada pasal yang mengatur tentang cukai rokok dalam UU No. 39 Tahun 2007?",
+    "gold_keywords": [
+      "pasal",
+      "cukai",
+      "rokok",
+      "uu no 39 tahun 2007"
+    ]
+  },
+  {
+    "prompt": "Jika saya membuka usaha restoran di Jakarta, pajak apa yang berlaku?",
+    "gold_keywords": [
+      "pajak",
+      "usaha",
+      "restoran",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Apakah hotel kecil di Bali wajib membayar pajak hiburan?",
+    "gold_keywords": [
+      "pajak",
+      "hotel",
+      "hiburan",
+      "bali"
+    ]
+  },
+  {
+    "prompt": "Bagaimana prosedur membayar retribusi sampah di Bandung?",
+    "gold_keywords": [
+      "prosedur",
+      "membayar",
+      "retribusi",
+      "sampah",
+      "bandung"
+    ]
+  },
+  {
+    "prompt": "Jika memiliki tanah di Surabaya, pajak apa yang harus dibayar?",
+    "gold_keywords": [
+      "pajak",
+      "tanah",
+      "surabaya"
+    ]
+  },
+  {
+    "prompt": "Apakah kendaraan listrik bebas pajak di Indonesia tahun 2021?",
+    "gold_keywords": [
+      "kendaraan listrik",
+      "bebas pajak",
+      "indonesia",
+      "2021"
+    ]
+  },
+  {
+    "prompt": "Apakah ada aturan tentang pajak daerah di Bali tahun 2021?",
+    "gold_keywords": [
+      "aturan",
+      "pajak daerah",
+      "bali",
+      "2021"
+    ]
+  },
+  {
+    "prompt": "Bagaimana ketentuan pajak kendaraan bermotor di Bali tahun 2022?",
+    "gold_keywords": [
+      "ketentuan",
+      "pajak",
+      "kendaraan bermotor",
+      "bali",
+      "2022"
+    ]
+  },
+  {
+    "prompt": "Apakah ada undang-undang terkait retribusi sampah di Surabaya?",
+    "gold_keywords": [
+      "undang-undang",
+      "retribusi",
+      "sampah",
+      "surabaya"
+    ]
+  },
+  {
+    "prompt": "Apakah ada aturan tentang pajak hotel di Bandung dan Bali?",
+    "gold_keywords": [
+      "aturan",
+      "pajak",
+      "hotel",
+      "bandung",
+      "bali"
+    ]
+  },
+  {
+    "prompt": "Pasal berapa dalam UU No. 28 Tahun 2009 yang mengatur retribusi parkir?",
+    "gold_keywords": [
+      "pasal",
+      "uu no 28 tahun 2009",
+      "retribusi",
+      "parkir"
+    ]
+  },
+  {
+    "prompt": "Jika saya membuka usaha restoran di Jakarta, pajak apa yang berlaku?",
+    "gold_keywords": [
+      "pajak",
+      "usaha",
+      "restoran",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Apakah aturan pajak hotel di Bali sama dengan di Yogyakarta?",
+    "gold_keywords": [
+      "aturan",
+      "pajak",
+      "hotel",
+      "bali",
+      "yogyakarta"
+    ]
+  },
+  {
+    "prompt": "Apakah ada regulasi mengenai pajak hotel, restoran, dan hiburan di Bali tahun 2021?",
+    "gold_keywords": [
+      "regulasi",
+      "pajak",
+      "hotel",
+      "restoran",
+      "hiburan",
+      "bali",
+      "2021"
+    ]
+  },
+  {
+    "prompt": "Bagaimana aturan mengenai pajak daerah di Jawa Barat?",
+    "gold_keywords": [
+      "aturan",
+      "pajak daerah",
+      "jawa barat"
+    ]
+  },
+  {
+    "prompt": "Apakah ada peraturan tentang pajak reklame di Semarang?",
+    "gold_keywords": [
+      "peraturan",
+      "pajak",
+      "reklame",
+      "semarang"
+    ]
+  },
+  {
+    "prompt": "Apa saja pajak yang harus dibayarkan oleh perusahaan di Indonesia?",
+    "gold_keywords": [
+      "pajak",
+      "perusahaan",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Bagaimana tata cara penghitungan PBB di Jakarta?",
+    "gold_keywords": [
+      "tata cara",
+      "penghitungan",
+      "pbb",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Apakah UMKM dikenai pajak?",
+    "gold_keywords": [
+      "umkm",
+      "pajak"
+    ]
+  },
+  {
+    "prompt": "Berapa tarif pajak hiburan di Bali tahun 2023?",
+    "gold_keywords": [
+      "tarif",
+      "pajak",
+      "hiburan",
+      "bali",
+      "2023"
+    ]
+  },
+  {
+    "prompt": "Bagaimana regulasi tentang retribusi izin mendirikan bangunan di Bekasi?",
+    "gold_keywords": [
+      "regulasi",
+      "retribusi",
+      "izin mendirikan bangunan",
+      "bekasi"
+    ]
+  },
+  {
+    "prompt": "Apakah ada aturan yang mengatur tentang pajak air tanah di Surabaya?",
+    "gold_keywords": [
+      "aturan",
+      "pajak",
+      "air tanah",
+      "surabaya"
+    ]
+  },
+  {
+    "prompt": "Jelaskan perbedaan antara pajak dan retribusi!",
+    "gold_keywords": [
+      "perbedaan",
+      "pajak",
+      "retribusi"
+    ]
+  },
+  {
+    "prompt": "Bagaimana prosedur pengurusan NPWP untuk wajib pajak orang pribadi?",
+    "gold_keywords": [
+      "prosedur",
+      "pengurusan",
+      "npwp",
+      "wajib pajak",
+      "orang pribadi"
+    ]
+  },
+  {
+    "prompt": "Apakah ada pembebasan pajak untuk kendaraan bermotor listrik?",
+    "gold_keywords": [
+      "pembebasan pajak",
+      "kendaraan bermotor listrik"
+    ]
+  },
+  {
+    "prompt": "Bagaimana ketentuan retribusi kebersihan di Jakarta?",
+    "gold_keywords": [
+      "ketentuan",
+      "retribusi",
+      "kebersihan",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Apakah ada peraturan daerah yang mengatur pajak hotel di Makassar?",
+    "gold_keywords": [
+      "peraturan daerah",
+      "pajak",
+      "hotel",
+      "makassar"
+    ]
+  },
+  {
+    "prompt": "Apa saja jenis pajak yang berlaku di Indonesia?",
+    "gold_keywords": [
+      "jenis pajak",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Bagaimana prosedur pelaporan SPT tahunan?",
+    "gold_keywords": [
+      "prosedur",
+      "pelaporan",
+      "spt tahunan"
+    ]
+  },
+  {
+    "prompt": "Jelaskan mengenai PPn dan PPnBM!",
+    "gold_keywords": [
+      "penjelasan",
+      "ppn",
+      "ppnbm"
+    ]
+  },
+  {
+    "prompt": "Berapa tarif pajak penghasilan untuk Wajib Pajak Badan?",
+    "gold_keywords": [
+      "tarif",
+      "pajak penghasilan",
+      "wajib pajak badan"
+    ]
+  },
+  {
+    "prompt": "Apa itu Pajak Daerah dan Retribusi Daerah?",
+    "gold_keywords": [
+      "pengertian",
+      "pajak daerah",
+      "retribusi daerah"
+    ]
+  },
+  {
+    "prompt": "Bagaimana cara menghitung pajak PPH 21?",
+    "gold_keywords": [
+      "cara",
+      "menghitung",
+      "pajak",
+      "pph 21"
+    ]
+  },
+  {
+    "prompt": "Apakah ada peraturan yang mengatur tentang pajak rokok di Jawa Timur?",
+    "gold_keywords": [
+      "peraturan",
+      "pajak",
+      "rokok",
+      "jawa timur"
+    ]
+  },
+  {
+    "prompt": "Bagaimana regulasi tentang pajak tontonan bioskop di Jakarta?",
+    "gold_keywords": [
+      "regulasi",
+      "pajak",
+      "tontonan",
+      "bioskop",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Apakah ada peraturan tentang pajak bumi dan bangunan di Surabaya tahun 2023?",
+    "gold_keywords": [
+      "peraturan",
+      "pajak bumi dan bangunan",
+      "surabaya",
+      "2023"
+    ]
+  },
+  {
+    "prompt": "Bagaimana cara melaporkan Pajak Penghasilan (PPh) bagi pekerja lepas (freelancer)?",
+    "gold_keywords": [
+      "cara",
+      "melaporkan",
+      "pajak penghasilan",
+      "pekerja lepas",
+      "freelancer"
+    ]
+  },
+  {
+    "prompt": "Apa saja syarat dan prosedur untuk mengajukan restitusi pajak?",
+    "gold_keywords": [
+      "syarat",
+      "prosedur",
+      "restitusi pajak"
+    ]
+  },
+  {
+    "prompt": "Bagaimana ketentuan mengenai pajak properti di Jakarta?",
+    "gold_keywords": [
+      "ketentuan",
+      "pajak properti",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Apakah ada perbedaan antara PPh dan PPN?",
+    "gold_keywords": [
+      "perbedaan",
+      "pph",
+      "ppn"
+    ]
+  },
+  {
+    "prompt": "Bagaimana cara mendapatkan Nomor Pokok Wajib Pajak (NPWP)?",
+    "gold_keywords": [
+      "cara",
+      "mendapatkan",
+      "npwp"
+    ]
+  },
+  {
+    "prompt": "Apakah ada peraturan terbaru tentang pajak pertambahan nilai di Indonesia?",
+    "gold_keywords": [
+      "peraturan terbaru",
+      "pajak pertambahan nilai",
+      "ppn",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Bagaimana cara membayar Pajak Bumi dan Bangunan (PBB) secara online?",
+    "gold_keywords": [
+      "cara",
+      "membayar",
+      "pajak bumi dan bangunan",
+      "pbb",
+      "online"
+    ]
+  },
+  {
+    "prompt": "Apa itu tarif pajak progresif dan bagaimana penerapannya?",
+    "gold_keywords": [
+      "tarif pajak progresif",
+      "penerapan"
+    ]
+  },
+  {
+    "prompt": "Apakah ada sanksi jika terlambat membayar pajak kendaraan bermotor?",
+    "gold_keywords": [
+      "sanksi",
+      "terlambat",
+      "membayar",
+      "pajak kendaraan bermotor"
+    ]
+  },
+  {
+    "prompt": "Bagaimana cara cek tagihan PBB online?",
+    "gold_keywords": [
+      "cara",
+      "cek",
+      "tagihan",
+      "pbb",
+      "online"
+    ]
+  },
+  {
+    "prompt": "Apakah ada diskon atau keringanan pajak kendaraan listrik di Jakarta?",
+    "gold_keywords": [
+      "diskon",
+      "keringanan",
+      "pajak",
+      "kendaraan listrik",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Apa saja objek pajak yang dikenakan PPN?",
+    "gold_keywords": [
+      "objek pajak",
+      "ppn"
+    ]
+  },
+  {
+    "prompt": "Bagaimana cara mengurus faktur pajak elektronik (e-faktur)?",
+    "gold_keywords": [
+      "cara",
+      "mengurus",
+      "faktur pajak",
+      "e-faktur"
+    ]
+  },
+  {
+    "prompt": "Jelaskan definisi dan contoh Pajak Penghasilan (PPh) Pasal 21!",
+    "gold_keywords": [
+      "definisi",
+      "contoh",
+      "pajak penghasilan",
+      "pph 21"
+    ]
+  },
+  {
+    "prompt": "Apakah ada aturan tentang pajak rokok di Jakarta?",
+    "gold_keywords": [
+      "pajak",
+      "rokok",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Bagaimana ketentuan pajak kendaraan bermotor di Bali tahun 2022?",
+    "gold_keywords": [
+      "pajak",
+      "kendaraan bermotor",
+      "bali",
+      "2022"
+    ]
+  },
+  {
+    "prompt": "Apakah ada undang-undang terkait retribusi sampah di Surabaya?",
+    "gold_keywords": [
+      "undang-undang",
+      "retribusi",
+      "sampah",
+      "surabaya"
+    ]
+  },
+  {
+    "prompt": "Bagaimana regulasi pajak restoran di Yogyakarta?",
+    "gold_keywords": [
+      "regulasi",
+      "pajak",
+      "restoran",
+      "yogyakarta"
+    ]
+  },
+  {
+    "prompt": "Adakah peraturan mengenai air tanah di Jawa Barat tahun 2019?",
+    "gold_keywords": [
+      "peraturan",
+      "air tanah",
+      "jawa barat",
+      "2019"
+    ]
+  },
+  {
+    "prompt": "Apakah ada aturan tentang pajak hotel di Bandung dan Bali?",
+    "gold_keywords": [
+      "aturan",
+      "pajak",
+      "hotel",
+      "bandung",
+      "bali"
+    ]
+  },
+  {
+    "prompt": "Bagaimana ketentuan retribusi parkir di Jakarta dan Medan tahun 2020?",
+    "gold_keywords": [
+      "ketentuan",
+      "retribusi",
+      "parkir",
+      "jakarta",
+      "medan",
+      "2020"
+    ]
+  },
+  {
+    "prompt": "Apakah ada regulasi mengenai limbah cair di Surabaya dan Makassar?",
+    "gold_keywords": [
+      "regulasi",
+      "limbah cair",
+      "surabaya",
+      "makassar"
+    ]
+  },
+  {
+    "prompt": "Bagaimana aturan pajak penghasilan di Jawa Tengah dan Jawa Timur tahun 2021?",
+    "gold_keywords": [
+      "aturan",
+      "pajak",
+      "penghasilan",
+      "jawa tengah",
+      "jawa timur",
+      "2021"
+    ]
+  },
+  {
+    "prompt": "Apakah ada perbedaan aturan retribusi pasar antara Semarang dan Yogyakarta?",
+    "gold_keywords": [
+      "perbedaan",
+      "retribusi",
+      "pasar",
+      "semarang",
+      "yogyakarta"
+    ]
+  },
+  {
+    "prompt": "Adakah aturan tentang izin usaha di Indonesia?",
+    "gold_keywords": [
+      "aturan",
+      "izin usaha",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Bagaimana ketentuan mengenai pajak penghasilan orang pribadi?",
+    "gold_keywords": [
+      "ketentuan",
+      "pajak",
+      "penghasilan",
+      "orang pribadi"
+    ]
+  },
+  {
+    "prompt": "Apakah ada regulasi tentang transportasi online di Jakarta?",
+    "gold_keywords": [
+      "regulasi",
+      "transportasi online",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Bagaimana peraturan tentang tenaga kerja asing di Indonesia?",
+    "gold_keywords": [
+      "peraturan",
+      "tenaga kerja asing",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Adakah ketentuan mengenai izin mendirikan bangunan (IMB)?",
+    "gold_keywords": [
+      "ketentuan",
+      "izin mendirikan bangunan",
+      "imb"
+    ]
+  },
+  {
+    "prompt": "Apa isi UU No. 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah?",
+    "gold_keywords": [
+      "isi",
+      "uu no 28 tahun 2009",
+      "pajak daerah",
+      "retribusi daerah"
+    ]
+  },
+  {
+    "prompt": "Apakah ada aturan tentang retribusi jalan tol tahun 2020?",
+    "gold_keywords": [
+      "aturan",
+      "retribusi",
+      "jalan tol",
+      "2020"
+    ]
+  },
+  {
+    "prompt": "Bagaimana regulasi pajak kendaraan listrik tahun 2021?",
+    "gold_keywords": [
+      "regulasi",
+      "pajak",
+      "kendaraan listrik",
+      "2021"
+    ]
+  },
+  {
+    "prompt": "Apakah ada ketentuan tentang pajak karbon tahun 2022?",
+    "gold_keywords": [
+      "ketentuan",
+      "pajak",
+      "karbon",
+      "2022"
+    ]
+  },
+  {
+    "prompt": "Bagaimana aturan tentang dana desa pada tahun 2018?",
+    "gold_keywords": [
+      "aturan",
+      "dana desa",
+      "2018"
+    ]
+  },
+  {
+    "prompt": "Apakah ada regulasi mengenai pajak hotel, restoran, dan hiburan di Bali tahun 2021?",
+    "gold_keywords": [
+      "regulasi",
+      "pajak",
+      "hotel",
+      "restoran",
+      "hiburan",
+      "bali",
+      "2021"
+    ]
+  },
+  {
+    "prompt": "Bagaimana aturan tentang retribusi air, sampah, dan parkir di Surabaya tahun 2019?",
+    "gold_keywords": [
+      "aturan",
+      "retribusi",
+      "air",
+      "sampah",
+      "parkir",
+      "surabaya",
+      "2019"
+    ]
+  },
+  {
+    "prompt": "Apakah ada undang-undang terkait perizinan tambang, hutan, dan laut di Indonesia?",
+    "gold_keywords": [
+      "undang-undang",
+      "perizinan",
+      "tambang",
+      "hutan",
+      "laut",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Bagaimana ketentuan pajak bumi, bangunan, dan kendaraan di Jakarta tahun 2022?",
+    "gold_keywords": [
+      "ketentuan",
+      "pajak",
+      "bumi",
+      "bangunan",
+      "kendaraan",
+      "jakarta",
+      "2022"
+    ]
+  },
+  {
+    "prompt": "Apa regulasi mengenai pajak cukai rokok, minuman, dan bahan bakar di Indonesia?",
+    "gold_keywords": [
+      "regulasi",
+      "pajak",
+      "cukai",
+      "rokok",
+      "minuman",
+      "bahan bakar",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Apakah aturan pajak hotel di Bali sama dengan di Yogyakarta?",
+    "gold_keywords": [
+      "aturan",
+      "pajak",
+      "hotel",
+      "bali",
+      "yogyakarta"
+    ]
+  },
+  {
+    "prompt": "Bagaimana perbedaan retribusi parkir di Jakarta dan Bandung tahun 2021?",
+    "gold_keywords": [
+      "perbedaan",
+      "retribusi",
+      "parkir",
+      "jakarta",
+      "bandung",
+      "2021"
+    ]
+  },
+  {
+    "prompt": "Apakah ada perbedaan ketentuan pajak kendaraan listrik antara Jawa Tengah dan Jawa Timur?",
+    "gold_keywords": [
+      "perbedaan",
+      "ketentuan",
+      "pajak",
+      "kendaraan listrik",
+      "jawa tengah",
+      "jawa timur"
+    ]
+  },
+  {
+    "prompt": "Bagaimana perbedaan aturan IMB di Surabaya dan Medan tahun 2020?",
+    "gold_keywords": [
+      "perbedaan",
+      "aturan",
+      "imb",
+      "surabaya",
+      "medan",
+      "2020"
+    ]
+  },
+  {
+    "prompt": "Apakah ada kesamaan regulasi lingkungan antara Sumatera Utara dan Kalimantan Timur?",
+    "gold_keywords": [
+      "kesamaan",
+      "regulasi",
+      "lingkungan",
+      "sumatera utara",
+      "kalimantan timur"
+    ]
+  },
+  {
+    "prompt": "Pasal berapa dalam UU No. 28 Tahun 2009 yang mengatur retribusi parkir?",
+    "gold_keywords": [
+      "pasal",
+      "uu no 28 tahun 2009",
+      "retribusi",
+      "parkir"
+    ]
+  },
+  {
+    "prompt": "Apa isi Pasal 12 UU tentang Pajak Bumi dan Bangunan tahun 2015?",
+    "gold_keywords": [
+      "isi",
+      "pasal 12",
+      "uu",
+      "pajak bumi dan bangunan",
+      "2015"
+    ]
+  },
+  {
+    "prompt": "Apakah Pasal 33 UUD 1945 berhubungan dengan pengelolaan sumber daya alam?",
+    "gold_keywords": [
+      "pasal 33",
+      "uud 1945",
+      "pengelolaan sumber daya alam"
+    ]
+  },
+  {
+    "prompt": "Bagaimana isi Pasal 23 UU Pajak Penghasilan?",
+    "gold_keywords": [
+      "isi",
+      "pasal 23",
+      "uu",
+      "pajak penghasilan"
+    ]
+  },
+  {
+    "prompt": "Apakah ada pasal yang mengatur tentang cukai rokok dalam UU No. 39 Tahun 2007?",
+    "gold_keywords": [
+      "pasal",
+      "cukai",
+      "rokok",
+      "uu no 39 tahun 2007"
+    ]
+  },
+  {
+    "prompt": "Jika saya membuka usaha restoran di Jakarta, pajak apa yang berlaku?",
+    "gold_keywords": [
+      "pajak",
+      "usaha",
+      "restoran",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Apakah hotel kecil di Bali wajib membayar pajak hiburan?",
+    "gold_keywords": [
+      "pajak",
+      "hotel",
+      "hiburan",
+      "bali"
+    ]
+  },
+  {
+    "prompt": "Bagaimana prosedur membayar retribusi sampah di Bandung?",
+    "gold_keywords": [
+      "prosedur",
+      "membayar",
+      "retribusi",
+      "sampah",
+      "bandung"
+    ]
+  },
+  {
+    "prompt": "Jika memiliki tanah di Surabaya, pajak apa yang harus dibayar?",
+    "gold_keywords": [
+      "pajak",
+      "tanah",
+      "surabaya"
+    ]
+  },
+  {
+    "prompt": "Apakah kendaraan listrik bebas pajak di Indonesia tahun 2021?",
+    "gold_keywords": [
+      "kendaraan listrik",
+      "bebas pajak",
+      "indonesia",
+      "2021"
+    ]
+  },
+  {
+    "prompt": "Apakah ada aturan tentang pajak daerah di Bali tahun 2021?",
+    "gold_keywords": [
+      "aturan",
+      "pajak daerah",
+      "bali",
+      "2021"
+    ]
+  },
+  {
+    "prompt": "Bagaimana ketentuan pajak kendaraan bermotor di Bali tahun 2022?",
+    "gold_keywords": [
+      "ketentuan",
+      "pajak",
+      "kendaraan bermotor",
+      "bali",
+      "2022"
+    ]
+  },
+  {
+    "prompt": "Apakah ada undang-undang terkait retribusi sampah di Surabaya?",
+    "gold_keywords": [
+      "undang-undang",
+      "retribusi",
+      "sampah",
+      "surabaya"
+    ]
+  },
+  {
+    "prompt": "Apakah ada aturan tentang pajak hotel di Bandung dan Bali?",
+    "gold_keywords": [
+      "aturan",
+      "pajak",
+      "hotel",
+      "bandung",
+      "bali"
+    ]
+  },
+  {
+    "prompt": "Pasal berapa dalam UU No. 28 Tahun 2009 yang mengatur retribusi parkir?",
+    "gold_keywords": [
+      "pasal",
+      "uu no 28 tahun 2009",
+      "retribusi",
+      "parkir"
+    ]
+  },
+  {
+    "prompt": "Jika saya membuka usaha restoran di Jakarta, pajak apa yang berlaku?",
+    "gold_keywords": [
+      "pajak",
+      "usaha",
+      "restoran",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Apakah aturan pajak hotel di Bali sama dengan di Yogyakarta?",
+    "gold_keywords": [
+      "aturan",
+      "pajak",
+      "hotel",
+      "bali",
+      "yogyakarta"
+    ]
+  },
+  {
+    "prompt": "Apakah ada regulasi mengenai pajak hotel, restoran, dan hiburan di Bali tahun 2021?",
+    "gold_keywords": [
+      "regulasi",
+      "pajak",
+      "hotel",
+      "restoran",
+      "hiburan",
+      "bali",
+      "2021"
+    ]
+  },
+  {
+    "prompt": "Bagaimana aturan mengenai pajak daerah di Jawa Barat?",
+    "gold_keywords": [
+      "aturan",
+      "pajak daerah",
+      "jawa barat"
+    ]
+  },
+  {
+    "prompt": "Apakah ada peraturan tentang pajak reklame di Semarang?",
+    "gold_keywords": [
+      "peraturan",
+      "pajak",
+      "reklame",
+      "semarang"
+    ]
+  },
+  {
+    "prompt": "Apa saja pajak yang harus dibayarkan oleh perusahaan di Indonesia?",
+    "gold_keywords": [
+      "pajak",
+      "perusahaan",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Bagaimana tata cara penghitungan PBB di Jakarta?",
+    "gold_keywords": [
+      "tata cara",
+      "penghitungan",
+      "pbb",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Apakah UMKM dikenai pajak?",
+    "gold_keywords": [
+      "umkm",
+      "pajak"
+    ]
+  },
+  {
+    "prompt": "Berapa tarif pajak hiburan di Bali tahun 2023?",
+    "gold_keywords": [
+      "tarif",
+      "pajak",
+      "hiburan",
+      "bali",
+      "2023"
+    ]
+  },
+  {
+    "prompt": "Bagaimana regulasi tentang retribusi izin mendirikan bangunan di Bekasi?",
+    "gold_keywords": [
+      "regulasi",
+      "retribusi",
+      "izin mendirikan bangunan",
+      "bekasi"
+    ]
+  },
+  {
+    "prompt": "Apakah ada aturan yang mengatur tentang pajak air tanah di Surabaya?",
+    "gold_keywords": [
+      "aturan",
+      "pajak",
+      "air tanah",
+      "surabaya"
+    ]
+  },
+  {
+    "prompt": "Jelaskan perbedaan antara pajak dan retribusi!",
+    "gold_keywords": [
+      "perbedaan",
+      "pajak",
+      "retribusi"
+    ]
+  },
+  {
+    "prompt": "Bagaimana prosedur pengurusan NPWP untuk wajib pajak orang pribadi?",
+    "gold_keywords": [
+      "prosedur",
+      "pengurusan",
+      "npwp",
+      "wajib pajak",
+      "orang pribadi"
+    ]
+  },
+  {
+    "prompt": "Apakah ada pembebasan pajak untuk kendaraan bermotor listrik?",
+    "gold_keywords": [
+      "pembebasan pajak",
+      "kendaraan bermotor listrik"
+    ]
+  },
+  {
+    "prompt": "Bagaimana ketentuan retribusi kebersihan di Jakarta?",
+    "gold_keywords": [
+      "ketentuan",
+      "retribusi",
+      "kebersihan",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Apakah ada peraturan daerah yang mengatur pajak hotel di Makassar?",
+    "gold_keywords": [
+      "peraturan daerah",
+      "pajak",
+      "hotel",
+      "makassar"
+    ]
+  },
+  {
+    "prompt": "Apa saja jenis pajak yang berlaku di Indonesia?",
+    "gold_keywords": [
+      "jenis pajak",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Bagaimana prosedur pelaporan SPT tahunan?",
+    "gold_keywords": [
+      "prosedur",
+      "pelaporan",
+      "spt tahunan"
+    ]
+  },
+  {
+    "prompt": "Jelaskan mengenai PPn dan PPnBM!",
+    "gold_keywords": [
+      "penjelasan",
+      "ppn",
+      "ppnbm"
+    ]
+  },
+  {
+    "prompt": "Berapa tarif pajak penghasilan untuk Wajib Pajak Badan?",
+    "gold_keywords": [
+      "tarif",
+      "pajak penghasilan",
+      "wajib pajak badan"
+    ]
+  },
+  {
+    "prompt": "Apa itu Pajak Daerah dan Retribusi Daerah?",
+    "gold_keywords": [
+      "pengertian",
+      "pajak daerah",
+      "retribusi daerah"
+    ]
+  },
+  {
+    "prompt": "Bagaimana cara menghitung pajak PPH 21?",
+    "gold_keywords": [
+      "cara",
+      "menghitung",
+      "pajak",
+      "pph 21"
+    ]
+  },
+  {
+    "prompt": "Apakah ada peraturan yang mengatur tentang pajak rokok di Jawa Timur?",
+    "gold_keywords": [
+      "peraturan",
+      "pajak",
+      "rokok",
+      "jawa timur"
+    ]
+  },
+  {
+    "prompt": "Bagaimana regulasi tentang pajak tontonan bioskop di Jakarta?",
+    "gold_keywords": [
+      "regulasi",
+      "pajak",
+      "tontonan",
+      "bioskop",
+      "jakarta"
+    ]
+  },
+  {
+    "prompt": "Bagaimana cara mengajukan keringanan pajak PBB di Kota Medan?",
+    "gold_keywords": [
+      "cara",
+      "mengajukan",
+      "keringanan",
+      "pajak",
+      "pbb",
+      "medan"
+    ]
+  },
+  {
+    "prompt": "Apakah pengusaha kecil yang baru merintis usaha di Bandung harus bayar pajak?",
+    "gold_keywords": [
+      "pengusaha kecil",
+      "usaha baru",
+      "pajak",
+      "bandung"
+    ]
+  },
+  {
+    "prompt": "Apa perbedaan tarif PPh antara orang pribadi dan badan usaha?",
+    "gold_keywords": [
+      "perbedaan",
+      "tarif",
+      "pph",
+      "orang pribadi",
+      "badan usaha"
+    ]
+  },
+  {
+    "prompt": "Bagaimana cara lapor SPT tahunan melalui e-filing?",
+    "gold_keywords": [
+      "cara",
+      "lapor",
+      "spt tahunan",
+      "e-filing"
+    ]
+  },
+  {
+    "prompt": "Jelaskan jenis-jenis retribusi daerah di Kabupaten Bekasi!",
+    "gold_keywords": [
+      "jenis-jenis",
+      "retribusi daerah",
+      "bekasi"
+    ]
+  },
+  {
+    "prompt": "Apa saja dokumen yang dibutuhkan untuk pengurusan NPWP badan usaha?",
+    "gold_keywords": [
+      "dokumen",
+      "pengurusan",
+      "npwp",
+      "badan usaha"
+    ]
+  },
+  {
+    "prompt": "Bagaimana regulasi pajak untuk pedagang online (e-commerce) di Indonesia?",
+    "gold_keywords": [
+      "regulasi",
+      "pajak",
+      "pedagang online",
+      "e-commerce",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Apa saja syarat untuk mendapatkan pembebasan pajak UMKM?",
+    "gold_keywords": [
+      "syarat",
+      "pembebasan pajak",
+      "umkm"
+    ]
+  },
+  {
+    "prompt": "Bagaimana cara hitung pajak dan retribusi saat menjual properti?",
+    "gold_keywords": [
+      "cara",
+      "hitung",
+      "pajak",
+      "retribusi",
+      "menjual properti"
+    ]
+  },
+  {
+    "prompt": "Apakah dana hibah dari pemerintah dikenakan pajak?",
+    "gold_keywords": [
+      "dana hibah",
+      "pemerintah",
+      "pajak"
+    ]
+  },
+  {
+    "prompt": "Bagaimana ketentuan pajak karbon di Indonesia mulai berlaku?",
+    "gold_keywords": [
+      "ketentuan",
+      "pajak karbon",
+      "indonesia"
+    ]
+  },
+  {
+    "prompt": "Apa isi Pasal 4 UU Cipta Kerja yang berkaitan dengan pajak?",
+    "gold_keywords": [
+      "isi",
+      "pasal 4",
+      "uu cipta kerja",
+      "pajak"
+    ]
+  },
+  {
+    "prompt": "Bagaimana cara mengetahui NOP (Nomor Objek Pajak) PBB?",
+    "gold_keywords": [
+      "cara",
+      "mengetahui",
+      "nop",
+      "pbb"
+    ]
+  },
+  {
+    "prompt": "Apakah ada aturan khusus tentang pajak hiburan untuk acara konser musik?",
+    "gold_keywords": [
+      "aturan khusus",
+      "pajak hiburan",
+      "konser musik"
+    ]
+  },
+  {
+    "prompt": "Bagaimana sanksi bagi wajib pajak yang tidak melaporkan SPT?",
+    "gold_keywords": [
+      "sanksi",
+      "wajib pajak",
+      "tidak lapor",
+      "spt"
+    ]
+  }
+]

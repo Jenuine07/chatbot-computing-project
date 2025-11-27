@@ -1,0 +1,40 @@
+# Core
+pandas
+numpy
+tqdm
+
+# LLM and Embeddings
+ollama               # Local model interface
+sentence-transformers
+transformers
+accelerate
+torch
+
+# Vector Database
+qdrant-client==1.7.3
+
+# Web Framework / API
+fastapi
+uvicorn[standard]
+
+# Data Access (Excel / SQL)
+openpyxl             # Read Excel files
+SQLAlchemy
+psycopg2-binary      # For PostgreSQL (can remove if not used yet)
+
+# NLP & Text Processing
+Sastrawi             # Indonesian stopword remover
+regex
+fuzzywuzzy
+python-Levenshtein   # Optional speed-up for fuzzywuzzy
+
+# Utilities
+python-dotenv
+requests
+
+# Testing
+pytest
+pytest-asyncio
+
+# Optional UI
+streamlit

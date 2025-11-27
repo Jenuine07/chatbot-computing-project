@@ -1,0 +1,31 @@
+:root {
+  --primary-bg: #0a2e66;
+  
+  --secondary-bg: #072555;
+  
+  --sidebar-bg: #041a3d;
+
+  --text-primary: #FFFFFF;
+  --text-secondary: #A0AEC0;
+
+  --accent-color: #e8c43a;
+
+  --bubble-user-bg: #007bff;
+  --bubble-ai-bg: #072555;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+body {
+  margin: 0;
+  font-family: 'Poppins';
+  /* , -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto;  */
+  background-color: var(--primary-bg);
+  color: var(--text-primary);
+  overflow: hidden;
+}
+
+#app {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+}
